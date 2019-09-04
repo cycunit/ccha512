@@ -6,7 +6,7 @@ Simple Hashing Algorithm by [cybercunt.net](https://cybercunt.net)
 Binaries for Linux and Windows 64bit/32bit can be found here:
 [releases](https://github.com/cybercunt-net/ccha512/releases)
 
-## Pros & Cons
+## Advantages
 ### Pros
 * Super fast and efficient
 * Has a lot of collisions so
