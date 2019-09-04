@@ -7,6 +7,7 @@ Binaries for Linux and Windows 64bit/32bit can be found here:
 [releases](https://github.com/cybercunt-net/ccha512/releases)
 
 ## Advantages
+Good and bad stuff for this tool.
 ### Pros
 * Super fast and efficient
 * Has a lot of collisions so
@@ -32,7 +33,7 @@ gcc src/ccha-512.c -o ccha512
 ## Usage
 
 ```bash
-./ccha512 samplefile.txt
+./ccha512 foo.bar
 ```
 
 ## Contributing
