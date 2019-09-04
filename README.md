@@ -2,7 +2,7 @@
 
 Simple Hashing Algorithm by [cybercunt.net](https://cybercunt.net)
 
-##Releases
+## Releases
 Binaries for Linux and Windows 64bit/32bit can be found here:
 [releases](https://github.com/cybercunt-net/ccha512/releases)
 
