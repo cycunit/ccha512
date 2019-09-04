@@ -7,7 +7,7 @@ Binaries for Linux and Windows 64bit/32bit can be found here:
 [releases](https://github.com/cybercunt-net/ccha512/releases)
 
 ## Pros & Cons
-Pros
+### Pros
 * Super fast and efficient
 * Has a lot of collisions so
 * Reversing is impossible
@@ -18,7 +18,7 @@ Pros
 * Easily implemented in other Languages
 * Coded in C with only stdio library used
 
-Cons
+### Cons
 * Not adviced to use in applications where security is a factor
 
 ## Installation
