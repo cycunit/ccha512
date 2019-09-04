@@ -2,6 +2,21 @@
 
 Simple Hashing Algorithm by [cybercunt.net](https://cybercunt.net)
 
+## Pros & Cons
+Pros
+* Super fast and efficient
+* Has a lot of collisions so
+* Reversing is impossible
+* Only 3 digit hash - easy to remember
+* Saves Traffic
+* HIGH_SECURITY has been definied true
+* Cool ASCII Art when running
+* Easily implemented in other Languages
+* Coded in C with only stdio library used
+
+Cons
+* Not adviced to use in applications where security is a factor
+
 ## Installation
 
 Download one of the binaries or compile from source
