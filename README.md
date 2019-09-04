@@ -2,6 +2,10 @@
 
 Simple Hashing Algorithm by [cybercunt.net](https://cybercunt.net)
 
+##Releases
+Binaries for Linux and Windows 64bit/32bit can be found here:
+[https://github.com/cybercunt-net/ccha512/releases](https://github.com/cybercunt-net/ccha512/releases)
+
 ## Pros & Cons
 Pros
 * Super fast and efficient
