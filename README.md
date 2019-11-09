@@ -1,6 +1,6 @@
 # ccha-512
 
-Simple Hashing Algorithm by [cybercunt.net](https://cybercunt.net)
+Simple Joke Hashing Algorithm by [cybercunt.net](https://cybercunt.net)
 
 ## Releases
 Binaries for Linux and Windows 64bit/32bit can be found here:
