@@ -8,6 +8,7 @@ Binaries for Linux and Windows 64bit/32bit can be found here:
 
 ## Advantages
 Good and bad stuff for this tool.
+(Please don't use it, it is a Joke)
 ### Pros
 * Super fast and efficient
 * Has a lot of collisions so
